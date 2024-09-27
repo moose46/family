@@ -1,0 +1,6 @@
+
+family/__pycache__
+.venv/
+
+mail/__pycache__
+db.sqlite3
